@@ -21,7 +21,7 @@ These 100 counties make up about 9% of the population and account for 50% of all
 
 
 <Bh>
-Links to the sources:
+Links to the sources:<br>
 <a href="https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html">New York Times COVID-19 database</a><br>
 <a href="https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Chronic-Conditions/CC_Main"> Centers for Medicare and Medicaid Services</a> <Br>
 <a href= "https://www.countyhealthrankings.org/explore-health-rankings/rankings-data-documentation"> Robert Wood Johnson Foundation & the Univeristy of Wisconsin Population Health Institute County Health Rankings & Roadmaps<\a> <Br>
