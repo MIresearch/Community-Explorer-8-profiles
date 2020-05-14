@@ -19,7 +19,8 @@ These 100 counties make up about 9% of the population and account for 50% of all
 <H2>Key Health & Social Characteristics of Affected Communities </H2>
 <center><iframe src="https://public.tableau.com/views/Table_15894891188610/Table?:display_count=y&publish=yes&:origin=viz_share_link" width="100%" height="727" frameborder="0"></iframe></center>
 
-
+<br>
+<br>
 <Bh>
 Links to the sources:<br>
 <a href="https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html">New York Times COVID-19 database</a><br>
