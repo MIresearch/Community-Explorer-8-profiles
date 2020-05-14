@@ -16,8 +16,15 @@ These 100 counties make up about 9% of the population and account for 50% of all
 <center><iframe src="https://public.tableau.com/views/100May11/Map?:display_count=y&publish=yes&:origin=viz_share_link" width="100%" height="727" frameborder="0"></iframe></center>
 
 
-
 <H2>Key Health & Social Characteristics of Affected Communities </H2>
 <center><iframe src="https://public.tableau.com/views/Table_15894891188610/Table?:display_count=y&publish=yes&:origin=viz_share_link" width="100%" height="727" frameborder="0"></iframe></center>
+
+
+
+Links to the sources:
+<a href="https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html">New York Times COVID-19 database</a>
+<a href="https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Chronic-Conditions/CC_Main"> Centers for Medicare and Medicaid Services</a>
+<a href= "https://www.countyhealthrankings.org/explore-health-rankings/rankings-data-documentation"> Robert Wood Johnson Foundation & the Univeristy of Wisconsin Population Health Institute County Health Rankings & Roadmaps<\a>
+ <a reaf=" https://www.ers.usda.gov/data-products/county-level-data-sets/"> USDA </a>
 
 
