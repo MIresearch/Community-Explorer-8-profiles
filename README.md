@@ -5,12 +5,12 @@
 We leverage our technical and analytical skills, and economic thoughts to bring new persectives to current policy discussions.<br><br>
 When it comes to COVID19, we believe that highlighting the interaction among health, demographic, and socio-economic features in communities provides a broader perspective on their potential vulnerability to health threats. It is also the starting point for targeted policy solutions. <Br>
   
-<H2><b> COVID-19 Community Profiles</b> </H2> <Hr>
+<H2><b> COVID-19 Community Profiler</b> </H2> <Hr>
 Created by Ken Sagynbekov & Brittney Butler <br> 
 For questions and comments:<a href="mailto:research@milkeninstitute.org"> research@milkeninstitute.org </a><br> 
   
 <H2>US Counties </H2>
-This interactive map allows users to explore health, demographic, and socio-economic characteristics of the US counties in relation to the total number of confirmed and suspected cases, total number of deaths, and their corresponding rates per 100,000 population. The intensity of underlying health conditions are shown in contrasting colors and the COVID-19 cases and mortality numbers are shown in gray bubbles. The average values for all counties are provided in the parentheses. 
+COVID-19 Community Profiler is an interactive map that allows users to explore health, demographic, and socio-economic characteristics of the US counties in relation to the total number of confirmed and suspected cases, total number of deaths, and their corresponding rates per 100,000 population. The intensity of underlying health conditions are shown in contrasting colors and the COVID-19 cases and mortality numbers are shown in gray bubbles. The average values for all counties are provided in the parentheses. 
 
 <center><iframe src="https://public.tableau.com/views/COVID-19CommunityProfile/Map?:display_count=y&publish=yes&:origin=viz_share_link" width="100%" height="1027" frameborder="0"></iframe></center>
 
