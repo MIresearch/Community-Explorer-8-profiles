@@ -12,17 +12,17 @@ For questions and comments:<a href="mailto:research@milkeninstitute.org"> resear
 <H2>US Counties </H2>
 COVID-19 Community Profiler is an interactive map that allows users to explore health, demographic, and socio-economic characteristics of the US counties in relation to the total number of confirmed and suspected cases, total number of deaths, and their corresponding rates per 100,000 population. The intensity of underlying health conditions are shown in contrasting colors and the COVID-19 cases and mortality numbers are shown in gray bubbles. The average values for all counties are provided in the parentheses. 
 
-<center><iframe src="https://public.tableau.com/views/COVID-19CommunityProfile/Map?:display_count=y&publish=yes&:origin=viz_share_link" width="100%" height="727" frameborder="0"></iframe></center>
+<center><iframe src="https://public.tableau.com/views/COVID-19CommunityProfile/Map?:display_count=y&publish=yes&:origin=viz_share_link" width="100%" height="627" frameborder="0"></iframe></center>
 
 
 <H2>Most Affected Communities in Terms of Population Adjusted Death Rate </H2>
 These 100 counties make up about 9% of the population and account for 50% of all COVID-19 deaths and 40% of all confirmed and suspected cases. Controlling for the population size allows us to compare and contrast counties based on the other dimensions (health, social, demographic, economic, etc).
 
-<center><iframe src="https://public.tableau.com/views/100AffectedCounties/Map?:retry=yes&:display_count=y&:origin=viz_share_link" width="100%" height="727" frameborder="0"></iframe></center>
+<center><iframe src="https://public.tableau.com/views/100AffectedCounties/Map?:retry=yes&:display_count=y&:origin=viz_share_link" width="100%" height="627" frameborder="0"></iframe></center>
 
 
 <H2>Key Health & Social Characteristics of These Most Affected Communities </H2>
-<center><iframe src="https://public.tableau.com/views/Table_15894891188610/Table?:display_count=y&publish=yes&:origin=viz_share_link" width="100%" height="727" frameborder="0"></iframe></center>
+<center><iframe src="https://public.tableau.com/views/Table_15894891188610/Table?:display_count=y&publish=yes&:origin=viz_share_link" width="100%" height="627" frameborder="0"></iframe></center>
 
 <br>
 <br>
