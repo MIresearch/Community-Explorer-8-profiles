@@ -1,7 +1,7 @@
 <br>
 <H1><b>Milken Institute Research Department </b></H1><Hr>
-The Offical Website of the Milken Institute is <a href="https://milkeninstitute.org/" target="_blank">https://milkeninstitute.org/</a>/<br>
-The current platform allows us to share on-going and past work while linking it to current events.
+Note: The Offical Website of the Milken Institute is <a href="https://milkeninstitute.org/" target="_blank">https://milkeninstitute.org/</a>/<br>
+The current platform allows us to share on-going while linking it to current events.
 
 We leverage our technical and analytical skills, and economic thoughts to bring new persectives to current policy discussions.
 Highlighting the interaction among health, demographic, and socio-economic features in communities provides a broader perspective on their potential vulnerability to health threats. It is also the starting point for targeted policy solutions. <Br>
