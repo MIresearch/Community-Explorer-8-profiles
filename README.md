@@ -3,7 +3,7 @@
 Note: The Offical Website of the Milken Institute is <a href="https://milkeninstitute.org" target="_blank">https://milkeninstitute.org/</a>/<br>
 The current platform allows us to share on-going while linking it to current events.
 
-We leverage our technical and analytical skills, and economic thoughts to bring new persectives to current policy discussions.
+We leverage our technical and analytical skills, and economic thoughts to bring new persectives to current policy discussions.<br>
 Highlighting the interaction among health, demographic, and socio-economic features in communities provides a broader perspective on their potential vulnerability to health threats. It is also the starting point for targeted policy solutions. <Br>
   
 <H2><b> COVID-19 Community Profiles</b> </H2> <Hr>
