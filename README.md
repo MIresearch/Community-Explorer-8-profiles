@@ -20,7 +20,7 @@ These 100 counties make up about 9% of the population and account for 50% of all
 <center><iframe src="https://public.tableau.com/views/100May11/Map?:display_count=y&publish=yes&:origin=viz_share_link" width="100%" height="727" frameborder="0"></iframe></center>
 
 
-<H2>Key Health & Social Characteristics of Affected Communities </H2>
+<H2>Key Health & Social Characteristics of These Most Affected Communities </H2>
 <center><iframe src="https://public.tableau.com/views/Table_15894891188610/Table?:display_count=y&publish=yes&:origin=viz_share_link" width="100%" height="727" frameborder="0"></iframe></center>
 
 <br>
