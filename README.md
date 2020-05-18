@@ -28,7 +28,7 @@ For questions and comments:<a href="mailto:research@milkeninstitute.org"> resear
 
 
 <H2>Most Affected Communities in Terms of Population Adjusted Death Rate </H2>
-These 100 counties make up about 9% of the population and account for 50% of all COVID-19 deaths and 40% of all confirmed and suspected cases. Controlling for the population size allows us to compare and contrast counties based on the other dimensions (health, social, demographic, economic, etc).
+These 100 counties make up about 9% of the population and account for 47% of all COVID-19 deaths and 36% of all confirmed and suspected cases. Controlling for the population size allows us to compare and contrast counties based on the other dimensions (health, social, demographic, economic, etc).
 
 <center><iframe src="https://public.tableau.com/views/100AffectedCounties/Map?:retry=yes&:display_count=y&:origin=viz_share_link" width="100%" height="700" frameborder="0"></iframe></center>
 
