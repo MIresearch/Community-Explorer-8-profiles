@@ -35,7 +35,7 @@ These 100 counties make up about 9% of the population and account for 47% of all
 
 <H2>Key Health and Social Characteristics of The Most and Least Affected Counties  </H2>
 Comparison of the 100 most affected counties with the 500 least affected out of the 2844 US counties by population adjusted death rate.
-<center><iframe src="https://public.tableau.com/views/Table_15894891188610/Dashboard2?:display_count=y&publish=yes&:origin=viz_share_link" width="80%" height="727" frameborder="0"></iframe></center>
+<center><iframe src="https://public.tableau.com/views/Table_15894891188610/Dashboard2?:display_count=y&publish=yes&:origin=viz_share_link" width="100%" height="727" frameborder="0"></iframe></center>
 
 
 <br>
