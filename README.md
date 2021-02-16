@@ -1,14 +1,9 @@
 <br><br>
 
 <H1><b>Milken Institute Research Department </b></H1><Hr>
-<i>Note: The Offical Website of the Milken Institute is <a href="https://milkeninstitute.org" target="_blank">https://milkeninstitute.org/</a>.  The current platform allows us to share on-going work while linking it to current events.</i>
 
-We leverage our technical and analytical skills, and economic thoughts to bring new persectives to current policy discussions.<br><br>
-When it comes to COVID19, we believe that highlighting the interaction among health, demographic, and socio-economic features in communities provides a broader perspective on their potential vulnerability to health threats. It is also the starting point for targeted policy solutions. <Br>
-  
 <H2><b> COVID-19 Community Explorer</b> </H2> <Hr>
-Created by Ken Sagynbekov & Brittney Butler <br> 
-For questions and comments:<a href="mailto:research@milkeninstitute.org"> research@milkeninstitute.org </a><br> 
+
   
 <H2>US Counties </H2>
 <b>COVID-19 Community Explorer</b> is an interactive map that allows users to explore health, demographic, and socio-economic characteristics of the US counties in relation to the total number of confirmed and suspected cases, total number of deaths, and their corresponding rates per 100,000 population. The intensity of underlying health conditions are shown in contrasting colors and the COVID-19 cases and mortality numbers are shown in bubbles. The average values for all counties are provided in the parentheses. 
