@@ -45,7 +45,7 @@ alt="Web Analytics"></a></div></noscript>
 
 <H2><b> The Community Explorer</b> </H2> <Hr>
 
-The Community Explorer allows to investigate US health disparities differently by first identifying populations' specificities (behavioral, demographic, economic, and social profiles) then linking them to their health profile. 
+The <b>Community Explorer</b> allows to investigate US health disparities differently by first identifying populations' specificities (behavioral, demographic, economic, and social profiles) then linking them to their health profile. 
 
 It sorts 26 behavioral, demographic, economic, and social factors across 3,192 US counties into eight community profiles. Identifying these community profiles and the interaction among factors within each one relies on Explanatory Factor Analysis and machine learning techniques.
 
