@@ -60,7 +60,7 @@ The map below shows the location of the <b>8 community profiles</B>:
 <br><b>8</b> - the most rural cohort made of an older White population with the most limited access to healthy food of all the profiles. The counties are mostly in the north part of the West, Midwest, and Northeast regions. (3% US population)<br>
 
 
-<H2>US Counties </H2>
+<H2>Interactive Map</H2>
 
 
 <br>
