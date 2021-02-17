@@ -50,14 +50,14 @@ The Community Explorer allows to investigate US health disparities differently b
 It sorts 26 behavioral, demographic, economic, and social factors across 3,192 US counties into eight community profiles. Identifying these community profiles and the interaction among factors within each one relies on Explanatory Factor Analysis and machine learning techniques. Ultimately, the Community Explorer leverages and makes sense of county-level information to create a dataset that can inform local and national policies. 
 
 The eight communities diplayed in the mpa below can be summarized as follows: 
-•	Community Profile One represents 38 percent of the US population and is the most ethnically diverse community with the highest income level. It is a highly educated cohort that resides in large metro areas. 
-•	Community Profile Two represents 25 percent of the US population and consists of highly educated, economically prosperous, mostly White counties in metro areas.
-•	Community Profile Three represents 12 percent of the US population and has the largest Black population, whose income is the lowest income of all the profiles. These counties are primarily concentrated in the Southeast. 
-•	Community Profile Four represents 7 percent of the US population and has the largest White population. This population reports the lowest income of all the profiles. It encompasses mostly rural counties in the East North Central, and Northeast regions.
-•	Community Five represents 6 percent of the US population and consists of predominantly White counties whose economies depend mostly on manufacturing and are located around the Midwest region. 
-•	Community Profile Six represents 5 percent of the US population. It captures the youngest cohort of the profiles, with the largest Hispanic population and the lowest education level, access to healthy food, and health insurance. The counties are concentrated in the West and South-Central regions.
-•	Community Profile Seven represents 4 percent of the US population. Its cohort is the oldest of the profiles and consists of mostly White, elderly retirement communities. 
-•	Community Profile Eight represents 3 percent of the US population and is the most rural cohort, consisting of an older White population with the most limited access to healthy food. The counties are mostly in the north part of the West, Midwest, and Northeast regions.
+<br><b>1</b> - the most ethnically diverse community with the highest income level. It is a highly educated cohort that resides in large metro areas. (38% US population)
+<br><b>2</b> - highly educated, economically prosperous, mostly White counties in metro areas. (25% US population)
+<br><b>3</b> - the largest Black population, whose income is the lowest income of all the profiles. These counties are primarily concentrated in the south-east. (12% US population)
+<br><b>4</b> - the largest white population with the lowest income of all the profiles. It encompasses mostly rural counties in the East North Central, and Northeast regions. (7% US population))
+<br><b>5</b> - predominantly White counties whose economy depends mostly on manufacturing and are located around the Midwest region. (6% US population) 
+<br><b>6</b> - the youngest cohort of the profiles, with the largest Hispanic population, the least education level, access to healthy food, and health insurance. The counties are concentrated in the West and West South-Central regions.  (5% US population)
+<br><b>7</b> - the oldest cohort of the profiles and consists of mostly White, elderly retirement communities. (4% US population)
+<br><b>8</b> - the most rural cohort made of an older White population with the most limited access to healthy food of all the profiles. The counties are mostly in the north part of the West, Midwest, and Northeast regions. (3% US population)<br>
 
 
 <H2>US Counties </H2>
