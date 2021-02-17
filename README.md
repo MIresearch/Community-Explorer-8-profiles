@@ -47,9 +47,9 @@ alt="Web Analytics"></a></div></noscript>
 
 The Community Explorer allows to investigate US health disparities differently by first identifying populations' specificities (behavioral, demographic, economic, and social profiles) then linking them to their health profile. 
 
-It sorts 26 behavioral, demographic, economic, and social factors across 3,192 US counties into eight community profiles. Identifying these community profiles and the interaction among factors within each one relies on Explanatory Factor Analysis and machine learning techniques. Ultimately, the Community Explorer leverages and makes sense of county-level information to create a dataset that can inform local and national policies. 
+It sorts 26 behavioral, demographic, economic, and social factors across 3,192 US counties into eight community profiles. Identifying these community profiles and the interaction among factors within each one relies on Explanatory Factor Analysis and machine learning techniques.
 
-The eight communities diplayed in the mpa below can be summarized as follows: 
+The <b>8 community profiles</B> displayed in the map can be summarized as follows: 
 <br><b>1</b> - the most ethnically diverse community with the highest income level. It is a highly educated cohort that resides in large metro areas. (38% US population)
 <br><b>2</b> - highly educated, economically prosperous, mostly White counties in metro areas. (25% US population)
 <br><b>3</b> - the largest Black population, whose income is the lowest income of all the profiles. These counties are primarily concentrated in the south-east. (12% US population)
