@@ -61,7 +61,7 @@ The map below shows the location of the <b>8 community profiles</B>:
 
 <H2>Projects Using the Community Explorer </H2>
 -<a href="https://miresearch.github.io/MI-COVID-19-Community-Explorer" target="_blank"> COVID-19 Community Explorer</a> <br>
--<a href="https://milkeninstitute.org/reports/weighing-down-america-2020-update" target="_blank"> Weighing Down America:2020 Update</a><br>
+-<a href="https://milkeninstitute.org/reports/weighing-down-america-2020-update" target="_blank"> Weighing Down America: 2020 Update</a><br>
 
 <H2>Interactive Map</H2>
 
