@@ -65,6 +65,7 @@ The map below shows the location of the <b>8 community profiles</B>:
 
 <H2>Interactive Map</H2>
 
+<center><iframe src="https://public.tableau.com/views/Community_Explorer/Map?:showVizHome=no&:embed=true" width="100%" height="700" frameborder="0"></iframe></center>
 
 <br>
 <br>
