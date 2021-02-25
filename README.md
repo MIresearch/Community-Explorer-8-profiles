@@ -61,6 +61,7 @@ The map below shows the location of these <b>8 community profiles</B>:
 <br><b>8</b> - the most rural cohort made of an older White population with the most limited access to healthy food of all the profiles. The counties are mostly in the north part of the West, Midwest, and Northeast regions. (3% US population)<br>
 
 <H2>Projects Using the Community Explorer </H2>
+-<a href="https://milkeninstitute.org/sites/default/files/reports-pdf/Community%20Explorer.pdf" target="_blank"> Informing Policy with County-Level Data: The Community Explorer</a> <br>
 -<a href="https://miresearch.github.io/MI-COVID-19-Community-Explorer" target="_blank"> COVID-19 Community Explorer</a> <br>
 -<a href="https://milkeninstitute.org/reports/weighing-down-america-2020-update" target="_blank"> Weighing Down America: 2020 Update</a><br>
 <Br>
