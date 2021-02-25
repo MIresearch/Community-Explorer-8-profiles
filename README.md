@@ -29,14 +29,14 @@ alt="Web Analytics"></a></div></noscript>
 
 <meta name="twitter:title" content="Community Explorer">
 <meta name="twitter:description" content="The Community Explorer sorts 26 behavioral, demographic, economic, and social factors across 3,192 US counties into eight community profiles.">
-<meta name="twitter:image" content="https://milkeninstitute.org/sites/default/files/COVID19%20Community%20Explorer%20Image.jpg">
+<meta name="twitter:image" content="https://milkeninstitute.org/sites/default/files/GettyImages-1204127705.jpg">
 <meta name="twitter:card" content="summary_large_image">
 
 <meta property="og:title" content="Community Explorer">
 <meta property="og:description" content="The Community Explorer sorts 26 behavioral, demographic, economic, and social factors across 3,192 US counties into eight community profiles. ;">
-<meta property="og:image" content="https://milkeninstitute.org/sites/default/files/COVID19%20Community%20Explorer%20Image.jpg">
-<meta property="og:image:url" content="https://milkeninstitute.org/sites/default/files/COVID19%20Community%20Explorer%20Image.jpg">
-<meta property="og:image:secure_url" content="https://milkeninstitute.org/sites/default/files/COVID19%20Community%20Explorer%20Image.jpg">
+<meta property="og:image" content="https://milkeninstitute.org/sites/default/files/GettyImages-1204127705.jpg">
+<meta property="og:image:url" content="https://milkeninstitute.org/sites/default/files/GettyImages-1204127705.jpg">
+<meta property="og:image:secure_url" content="https://milkeninstitute.org/sites/default/files/GettyImages-1204127705.jpg">
 <meta property="og:url" content="https://miresearch.github.io/Community-Explorer/">
 
 </head>
