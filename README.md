@@ -77,3 +77,25 @@ The map below shows the location of these <b>8 community profiles</B>:
 <br>
 <Bh>
 Data from: BRFSS, CDC's Diabetes Surveillance System, Centers for Medicare & Medicaid Services, Robert Wood Johnson Foundation's County Health Rankings, United Health Foundation's America's Health Rankings, Census Bureau's American Community Survey, Bureau of Labor Statistics, Department of Agriculture.
+
+VAriables' definition:
+•	Hypertension Among 65 and Older: Hypertension prevalence (%) among 65 and older 
+•	Diabetes Among 65 and Older: Diabetes prevalence (%) among 65 and older
+•	Heart Failure Among 65 and Older: Heart Failure prevalence (%) among 65 and older
+•	Ischemic Heart Disease among 65 and Older: Ischemic Heart Disease prevalence (%) among 65 and older
+•	Stroke Among 65 and Older: Stroke prevalence (%) among 65 and older
+•	Asthma Among 65 and Older: Asthma prevalence (%) among 65 and older
+•	Chronic Kidney Disease Among 65 and Older: Chronic Kidney Disease prevalence (%) among 65 and older
+•	Diabetes Prevalence: Diabetes prevalence (%) •	Alzheimer's Disease and Dementia: Alzheimer's Disease and Dementia prevalence (%) 
+•	Adult Obesity: Adult obesity prevalence (%)
+•	Adult Smoking: Rate of smoking adults (%)
+•	Poor Mental Health Days: Average number of mentally unhealthy days (#)
+•	Physical Inactivity: Percentage of adults age 20 and over reporting no leisure-time physical activity
+•	Excessive Drinking: Percentage of adults reporting binge or heavy drinking
+•	Frequent Physical Distress: Percentage of adults reporting 14 or more days of poor physical health per month
+•	Frequent Mental Distress: Percentage of adults reporting 14 or more days of poor mental health per month
+•	Food Insecurity Prevalence: Percentage of population who lack adequate access to food
+•	Limited Access to Healthy Foods: Percentage of population who are low-income and do not live close to a grocery store
+•	Food Environment Index: Index of factors that contribute to a healthy food environment
+•	Air Pollution Levels: Average daily density of fine particulate matter in micrograms per cubic meter (PM2.5)
+•	Social Association Rate: Number of membership associations per 10,000 population
