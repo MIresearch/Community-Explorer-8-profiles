@@ -77,7 +77,7 @@ The map below shows the location of these <b>8 community profiles</B>:
 <br>
 <Bh>
 <b>Data</b><br>
-BRFSS, CDC's Diabetes Surveillance System, Centers for Medicare & Medicaid Services, Robert Wood Johnson Foundation's County Health Rankings, United Health Foundation's America's Health Rankings, Census Bureau's American Community Survey, Bureau of Labor Statistics, Department of Agriculture.
+BRFSS, CDC's Diabetes Surveillance System, Centers for Medicare & Medicaid Services, Robert Wood Johnson Foundation's County Health Rankings, United Health Foundation's America's Health Rankings, Census Bureau's American Community Survey, Bureau of Labor Statistics, Department of Agriculture. <br>
 
 <b>Variables </b><br>
 •	Hypertension Among 65 and Older: Hypertension prevalence (%) among 65 and older <br>
