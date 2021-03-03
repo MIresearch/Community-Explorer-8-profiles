@@ -80,23 +80,26 @@ The map below shows the location of these <b>8 community profiles</B>:
 BRFSS, CDC's Diabetes Surveillance System, Centers for Medicare & Medicaid Services, Robert Wood Johnson Foundation's County Health Rankings, United Health Foundation's America's Health Rankings, Census Bureau's American Community Survey, Bureau of Labor Statistics, Department of Agriculture. <br>
 
 <b>Variables </b><br>
-•	Hypertension Among 65 and Older: Hypertension prevalence (%) among 65 and older <br>
-•	Diabetes Among 65 and Older: Diabetes prevalence (%) among 65 and older<br>
-•	Heart Failure Among 65 and Older: Heart Failure prevalence (%) among 65 and older<br>
-•	Ischemic Heart Disease among 65 and Older: Ischemic Heart Disease prevalence (%) among 65 and older<br>
-•	Stroke Among 65 and Older: Stroke prevalence (%) among 65 and older<br>
-•	Asthma Among 65 and Older: Asthma prevalence (%) among 65 and older<br>
-•	Chronic Kidney Disease Among 65 and Older: Chronic Kidney Disease prevalence (%) among 65 and older<br>
-•	Diabetes Prevalence: Diabetes prevalence (%) •	Alzheimer's Disease and Dementia: Alzheimer's Disease and Dementia prevalence (%) <br>
 •	Adult Obesity: Adult obesity prevalence (%)<br>
 •	Adult Smoking: Rate of smoking adults (%)<br>
-•	Poor Mental Health Days: Average number of mentally unhealthy days (#)<br>
-•	Physical Inactivity: Percentage of adults age 20 and over reporting no leisure-time physical activity<br>
-•	Excessive Drinking: Percentage of adults reporting binge or heavy drinking<br>
-•	Frequent Physical Distress: Percentage of adults reporting 14 or more days of poor physical health per month<br>
-•	Frequent Mental Distress: Percentage of adults reporting 14 or more days of poor mental health per month<br>
-•	Food Insecurity Prevalence: Percentage of population who lack adequate access to food<br>
-•	Limited Access to Healthy Foods: Percentage of population who are low-income and do not live close to a grocery store<br>
-•	Food Environment Index: Index of factors that contribute to a healthy food environment<br>
 •	Air Pollution Levels: Average daily density of fine particulate matter in micrograms per cubic meter (PM2.5)<br>
+•	Asthma Among 65 and Older: Asthma prevalence (%) among 65 and older<br>
+•	Chronic Kidney Disease Among 65 and Older: Chronic Kidney Disease prevalence (%) among 65 and older<br>
+•	Diabetes Among 65 and Older: Diabetes prevalence (%) among 65 and older<br>
+•	Diabetes Prevalence: Diabetes prevalence (%) •	Alzheimer's Disease and Dementia: Alzheimer's Disease and Dementia prevalence (%) <br>
+•	Excessive Drinking: Percentage of adults reporting binge or heavy drinking<br>
+•	Food Environment Index: Index of factors that contribute to a healthy food environment<br>
+•	Food Insecurity Prevalence: Percentage of population who lack adequate access to food<br>
+•	Frequent Mental Distress: Percentage of adults reporting 14 or more days of poor mental health per month<br>
+•	Frequent Physical Distress: Percentage of adults reporting 14 or more days of poor physical health per month<br>
+•	Heart Failure Among 65 and Older: Heart Failure prevalence (%) among 65 and older<br>
+•	Hypertension Among 65 and Older: Hypertension prevalence (%) among 65 and older <br>
+•	Ischemic Heart Disease among 65 and Older: Ischemic Heart Disease prevalence (%) among 65 and older<br>
+•	Limited Access to Healthy Foods: Percentage of population who are low-income and do not live close to a grocery store<br>
+•	Physical Inactivity: Percentage of adults age 20 and over reporting no leisure-time physical activity<br>
+•	Poor Mental Health Days: Average number of mentally unhealthy days (#)<br>
 •	Social Association Rate: Number of membership associations per 10,000 population<br>
+•	Stroke Among 65 and Older: Stroke prevalence (%) among 65 and older<br>
+
+
+
