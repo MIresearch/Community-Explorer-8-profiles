@@ -76,9 +76,9 @@ The map below shows the location of these <b>8 community profiles</B>:
 <br>
 <br>
 <Bh>
-Data from: BRFSS, CDC's Diabetes Surveillance System, Centers for Medicare & Medicaid Services, Robert Wood Johnson Foundation's County Health Rankings, United Health Foundation's America's Health Rankings, Census Bureau's American Community Survey, Bureau of Labor Statistics, Department of Agriculture.
+<b>Data sources</b>: BRFSS, CDC's Diabetes Surveillance System, Centers for Medicare & Medicaid Services, Robert Wood Johnson Foundation's County Health Rankings, United Health Foundation's America's Health Rankings, Census Bureau's American Community Survey, Bureau of Labor Statistics, Department of Agriculture.
 
-Variables' definition:<br>
+<b>Variables </b>:<br>
 •	Hypertension Among 65 and Older: Hypertension prevalence (%) among 65 and older <br>
 •	Diabetes Among 65 and Older: Diabetes prevalence (%) among 65 and older<br>
 •	Heart Failure Among 65 and Older: Heart Failure prevalence (%) among 65 and older<br>
