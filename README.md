@@ -60,13 +60,6 @@ The map below shows the location of these <b>8 community profiles</B>:
 <br><b>7</b> - the oldest cohort of the profiles and consists of mostly White, elderly retirement communities. (4% US population)
 <br><b>8</b> - the most rural cohort made of an older White population with the most limited access to healthy food of all the profiles. The counties are mostly in the north part of the West, Midwest, and Northeast regions. (3% US population)<br>
 
-<H2>Projects Using the Community Explorer </H2>
--<a href="https://milkeninstitute.org/sites/default/files/reports-pdf/Community%20Explorer.pdf" target="_blank"> The Community Explorer: Informing Policy with County-Level Data </a> <br>
--<a href="https://miresearch.github.io/MI-COVID-19-Community-Explorer" target="_blank"> COVID-19 Community Explorer</a> <br>
--<a href="https://milkeninstitute.org/reports/weighing-down-america-2020-update" target="_blank"> Weighing Down America: 2020 Update</a><br>
-<Br>
-  
-<a href=" https://miresearch.github.io/About/" target="_blank"> <b>Back to MI Research's main github page</b>  </a>
 
 
 <H2>Interactive Map</H2>
@@ -101,5 +94,13 @@ BRFSS, CDC's Diabetes Surveillance System, Centers for Medicare & Medicaid Servi
 •	Social Association Rate: Number of membership associations per 10,000 population<br>
 •	Stroke Among 65 and Older: Stroke prevalence (%) among 65 and older<br>
 
+<br><br>
+<H2>Projects Using the Community Explorer </H2>
+-<a href="https://milkeninstitute.org/sites/default/files/reports-pdf/Community%20Explorer.pdf" target="_blank"> The Community Explorer: Informing Policy with County-Level Data </a> <br>
+-<a href="https://miresearch.github.io/MI-COVID-19-Community-Explorer" target="_blank"> COVID-19 Community Explorer</a> <br>
+-<a href="https://milkeninstitute.org/reports/weighing-down-america-2020-update" target="_blank"> Weighing Down America: 2020 Update</a><br>
+<Br>
+  
+<a href=" https://miresearch.github.io/About/" target="_blank"> <b>Back to MI Research's main github page</b>  </a>
 
 
