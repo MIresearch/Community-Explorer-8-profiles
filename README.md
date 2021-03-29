@@ -71,8 +71,8 @@ The map below shows the location of these <b>8 community profiles</B>:
 <Bh>
 <b>Data</b><br>
 BRFSS, CDC's Diabetes Surveillance System, Centers for Medicare & Medicaid Services, Robert Wood Johnson Foundation's County Health Rankings, United Health Foundation's America's Health Rankings, Census Bureau's American Community Survey, Bureau of Labor Statistics, Department of Agriculture. <br>
-
-<b>Variables </b><br>
+<br> <br>
+<b>List of Health Conditions</b><br>
 •	Adult Obesity: Adult obesity prevalence (%)<br>
 •	Adult Smoking: Rate of smoking adults (%)<br>
 •	Air Pollution Levels: Average daily density of fine particulate matter in micrograms per cubic meter (PM2.5)<br>
@@ -95,7 +95,7 @@ BRFSS, CDC's Diabetes Surveillance System, Centers for Medicare & Medicaid Servi
 •	Stroke Among 65 and Older: Stroke prevalence (%) among 65 and older<br>
 
 <br><br>
-<H2>Projects Using the Community Explorer </H2>
+<H2>Related Projects </H2>
 -<a href="https://milkeninstitute.org/sites/default/files/reports-pdf/Community%20Explorer.pdf" target="_blank"> The Community Explorer: Informing Policy with County-Level Data </a> <br>
 -<a href="https://miresearch.github.io/MI-COVID-19-Community-Explorer" target="_blank"> COVID-19 Community Explorer</a> <br>
 -<a href="https://milkeninstitute.org/reports/weighing-down-america-2020-update" target="_blank"> Weighing Down America: 2020 Update</a><br>
