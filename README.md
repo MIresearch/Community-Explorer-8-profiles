@@ -43,7 +43,7 @@ alt="Web Analytics"></a></div></noscript>
 
 <H1><b>Milken Institute Research Department </b></H1><Hr>
 
-<H2><b> The Community Explorer, , 8 profiles based on 26 factors</b> </H2> <Hr>
+<H2><b> The Community Explorer, 8 profiles based on 26 factors</b> </H2> <Hr>
 
 The <b>Community Explorer</b> investigates US health disparities by first understanding populations' specificities then looking at their health
 profile. It identifies the different populations or communities based on their behavioral, demographic, economic, and social profiles. Then it links these profiles to chronic disease prevalence rates. 
@@ -96,6 +96,7 @@ BRFSS, CDC's Diabetes Surveillance System, Centers for Medicare & Medicaid Servi
 
 <br><br>
 <H2>Related Projects </H2>
+-<a href="https://miresearch.github.io/Community-Explorer-17-profiles/" target="_blank"> The Community Explorer ** beta version  (17 profiles based on 751 factors) </a> <br>
 -<a href="https://milkeninstitute.org/sites/default/files/reports-pdf/Community%20Explorer.pdf" target="_blank"> The Community Explorer: Informing Policy with County-Level Data </a> <br>
 -<a href="https://miresearch.github.io/MI-COVID-19-Community-Explorer" target="_blank"> COVID-19 Community Explorer</a> <br>
 -<a href="https://milkeninstitute.org/reports/weighing-down-america-2020-update" target="_blank"> Weighing Down America: 2020 Update</a><br>
