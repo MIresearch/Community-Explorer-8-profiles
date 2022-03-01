@@ -27,7 +27,7 @@ src="https://c.statcounter.com/12481025/0/74862afb/1/"
 alt="Web Analytics"></a></div></noscript>
 <!-- End of Statcounter Code -->
 
-<meta name="twitter:title" content="Community Explorer">
+<meta name="twitter:title" content="Community Explorer, 8 profiles based on 26 factors">  
 <meta name="twitter:description" content="The Community Explorer sorts 26 behavioral, demographic, economic, and social factors across 3,192 US counties into eight community profiles.">
 <meta name="twitter:image" content="https://milkeninstitute.org/sites/default/files/GettyImages-1204127705.jpg">
 <meta name="twitter:card" content="summary_large_image">
