@@ -27,7 +27,7 @@ src="https://c.statcounter.com/12481025/0/74862afb/1/"
 alt="Web Analytics"></a></div></noscript>
 <!-- End of Statcounter Code -->
 
-<meta name="twitter:title" content="Community Explorer, 8 profiles based on 26 factors">  
+<meta name="twitter:title" content="Community Explorer">  
 <meta name="twitter:description" content="The Community Explorer sorts 26 behavioral, demographic, economic, and social factors across 3,192 US counties into eight community profiles.">
 <meta name="twitter:image" content="https://milkeninstitute.org/sites/default/files/GettyImages-1204127705.jpg">
 <meta name="twitter:card" content="summary_large_image">
@@ -43,7 +43,7 @@ alt="Web Analytics"></a></div></noscript>
 
 <H1><b>Milken Institute Research Department </b></H1><Hr>
 
-<H2><b> The Community Explorer</b> </H2> <Hr>
+<H2><b> The Community Explorer, , 8 profiles based on 26 factors</b> </H2> <Hr>
 
 The <b>Community Explorer</b> investigates US health disparities by first understanding populations' specificities then looking at their health
 profile. It identifies the different populations or communities based on their behavioral, demographic, economic, and social profiles. Then it links these profiles to chronic disease prevalence rates. 
