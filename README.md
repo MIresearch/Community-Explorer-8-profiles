@@ -43,7 +43,7 @@ alt="Web Analytics"></a></div></noscript>
 
 <H1><b>Milken Institute Research Department </b></H1><Hr>
 
-<H2><b> The Community Explorer, 8 profiles based on 26 factors</b> </H2> <Hr>
+<H2><b> The Community Explorer (8 profiles based on 26 factors) ( see <a href="https://miresearch.github.io/Community-Explorer-17-profiles/" target="_blank"> see 17 profiles based on 751 factors,here </a>)</b> </H2> <Hr>
 
 The <b>Community Explorer</b> investigates US health disparities by first understanding populations' specificities then looking at their health
 profile. It identifies the different populations or communities based on their behavioral, demographic, economic, and social profiles. Then it links these profiles to chronic disease prevalence rates. 
