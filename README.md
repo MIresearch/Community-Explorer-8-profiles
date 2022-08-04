@@ -99,7 +99,7 @@ BRFSS, CDC's Diabetes Surveillance System, Centers for Medicare & Medicaid Servi
 -<a href="https://miresearch.github.io/Community-Explorer-17-profiles/" target="_blank"> The Community Explorer ** beta version ** (17 profiles based on 751 factors) </a> <br>
 -<a href="https://milkeninstitute.org/sites/default/files/reports-pdf/Community%20Explorer.pdf" target="_blank"> The Community Explorer: Informing Policy with County-Level Data </a> <br>
 -<a href="https://miresearch.github.io/COVID19-Community-Explorer/" target="_blank"> COVID-19 Community Explorer (17 Profiles)</a> <br>
--<a href="https://miresearch.github.io/MI-COVID-19-Community-Explorer" target="_blank"> COVID-19 Community Explorer (8 Profiles)</a> <br>
+-<a href="https://miresearch.github.io/COVID-19-Community-Explorer-8profiles/" target="_blank"> COVID-19 Community Explorer (8 Profiles)</a> <br>
 -<a href="https://milkeninstitute.org/reports/weighing-down-america-2020-update" target="_blank"> Weighing Down America: 2020 Update</a><br>
 <Br>
   
